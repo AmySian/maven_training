@@ -1,1 +1,3 @@
-# maven_training-
+# maven_training
+![example workflow](https://github.com/AmySian/maven_training/actions/workflows/build.yml/badge.svg)
+[![codecov](https://codecov.io/gh/AmySian/maven_training/branch/main/graph/badge.svg)](https://codecov.io/gh/AmySian/maven_training)
