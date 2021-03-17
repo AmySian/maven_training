@@ -15,6 +15,7 @@ public class Sample {
 
         final BiFunction<Integer, Integer, Integer> func;
 
+
         Operation(BiFunction<Integer, Integer, Integer> func) {
             this.func = func;
         }
